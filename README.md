@@ -1,9 +1,5 @@
 # C Free Resources
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 🛠️ Master the foundational language of computing with our C Programming Forge! This repository offers a comprehensive library of free C resources and an interactive online playground. Perfect for beginners learning their first language or experienced developers honing their low-level programming skills.
 
 ## Resources
